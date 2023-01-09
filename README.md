@@ -1,4 +1,4 @@
-##Hi there!
+## Hi there!
 
 Thanks for being here!! Do you want to know something about me? I'm a great partner, I love to work with others, and I also enjoy learning a lot. Don't loose the opportunity to follow me on LinkedIn so we can share together.
 
