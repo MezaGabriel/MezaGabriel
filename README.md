@@ -2,11 +2,11 @@
 
 Thanks for being here!! Do you want to know something about me? I'm a great partner, I love to work with others, and I also enjoy learning a lot. Don't loose the opportunity to follow me on LinkedIn so we can share together.
 
-- I’m currently working on **Android Native** and **Flutter**
-- I’m currently learning **Flutter & Dart**
+- I’m currently working on **Java**, **Android Native** and **Flutter**
+- I’m currently learning **Java**
 - All of my projects are available in this <a href="https://github.com/MezaGabriel?tab=repositories" target="_blank" rel="noopener noreferrer">link</a>
-- **Ask me about** Java, Kotlin, Android Studio, MVVM
-- Know about my experiences on <a href="https://drive.google.com/file/d/1MkNCgMYJsdnB4fhcKojyeysyc3Gz-ced/view?usp=sharing" target="_blank" rel="noopener noreferrer">My Resume</a>
+- **Ask me about** Java, Kotlin, Dart
+- Know about my experiences on <a href="https://drive.google.com/file/d/1qry4twbWck3Fn3EjZG8e2yWKm-vX6nqD/view?usp=share_link" target="_blank" rel="noopener noreferrer">My Resume</a>
 - Contact me: **mez4.gabriel@gmail.com**
 
 ## Languages and Tools:
