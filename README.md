@@ -27,6 +27,12 @@ Thanks for being here!! Do you want to know something about me? I'm a great part
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
  
 ## Projects:
+
+#### <a href="https://github.com/MezaGabriel/Portfolio-Java" target="_blank" rel="noopener noreferrer">Java Portfolio</a>
+<small>Here are some codes developed in the JAVA language, examples of how to apply the logic, even apply good practices in software development.</small>
+
+#### <a href="https://github.com/MezaGabriel/Portfolio-Android" target="_blank" rel="noopener noreferrer">Kotlin Portfolio</a>
+<small>In this section I made a list of useful Mobile Apps!!</small>
  
 #### <a href="https://github.com/MezaGabriel/Portfolio-Flutter" target="_blank" rel="noopener noreferrer">Flutter Portfolio</a>
 <small>In this section I made a list of useful Mobile Apps!! Feel free to check it out in all branches</small>
