@@ -6,7 +6,6 @@ Thanks for being here!! Do you want to know something about me? I'm a great part
 - I’m currently learning **Java**
 - All of my projects are available in this <a href="https://github.com/MezaGabriel?tab=repositories" target="_blank" rel="noopener noreferrer">link</a>
 - **Ask me about** Java, Kotlin, Dart
-- Know about my experiences on <a href="https://drive.google.com/file/d/1qry4twbWck3Fn3EjZG8e2yWKm-vX6nqD/view?usp=share_link" target="_blank" rel="noopener noreferrer">My Resume</a>
 - Contact me: **mez4.gabriel@gmail.com**
 
 ## Languages and Tools:
